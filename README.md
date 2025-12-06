@@ -1,6 +1,6 @@
 ## Hello everyone 👋
 
-**My name is Alexander Gusev.**
+**My name is Aleksandr Gusev.**
 
 I have been working in data engineering for over a year. I strive to develop in this field, honing my skills in data automation, building pipelines, and working with large volumes of information. Additionally, I have nearly 4 years of commercial experience as a system/business analyst.
 
