@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hello everyone 👋
 
-<!--
-**AleksGusev/AleksGusev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Alexander Gusev.**
 
-Here are some ideas to get you started:
+I have been working in data engineering for over a year. I strive to develop in this field, honing my skills in data automation, building pipelines, and working with large volumes of information. Additionally, I have nearly 4 years of commercial experience as a system/business analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Primary Skills
+- Designing and configuring ETL pipelines
+- Creating multi-layered DWH on PostgreSQL
+- Working with Data Lake architecture
+- Deploying IT infrastructure in the cloud
+- Developing real-time data processing systems
+- Programming Languages: Python, SQL
+
+### Additional Skills
+- **Tools**: Apache Airflow, Kafka, PySpark, Hadoop, Docker, Kubernetes
+- **Cloud Platforms**: Yandex Cloud
+- **Databases**: PostgreSQL, Vertica, MongoDB, Redis
+- **Methodologies**: ETL, Data Warehouse, data schema design
+- **Atlassian Confluence and Jira**
+- **API development**
+- **Technical specification development**
+- **Qlik Sense**
+- **Algorithms and data structures**
+- **Version Control**: Git, GitHub
+
+### Contact and Links
+- **Email**: jwings8@yandex.ru
+- **Telegram**: [aleks_gusev8](https://t.me/aleks_gusev8)
+- **Portfolio**: [de_portfolio](https://github.com/AleksGusev/de_portfolio)
